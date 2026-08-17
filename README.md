@@ -101,7 +101,6 @@ WHMCS · Paymenter · Pterodactyl · Pelican
 Response times can be a little slower when I'm away, but I always reply, usually within 48 hours.
 
 - [Email](mailto:ricardo@explorericardo.com)
-- [Live Chat](https://explorericardo.com/developer?dev=true)
 
 You can also visit my [website](https://explorericardo.com?dev=true) for more information.
 
