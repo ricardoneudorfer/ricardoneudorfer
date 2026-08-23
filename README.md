@@ -10,7 +10,7 @@ I'm a software developer with more than 3 years of hands-on experience and a gen
 
 Most of what I build ends up open source and is published publicly on GitHub, so other developers can use it, learn from it, or contribute to it.
 
-[View Projects](https://explorericardo.com/projects?dev=true)
+[View Projects](https://explorericardo.com/projects)
 
 ### Full-Stack Developer
 
@@ -102,7 +102,7 @@ Response times can be a little slower when I'm away, but I always reply, usually
 
 - [Email](mailto:ricardo@explorericardo.com)
 
-You can also visit my [website](https://explorericardo.com?dev=true) for more information.
+You can also visit my [website](https://explorericardo.com) for more information.
 
 ## Open Source
 
@@ -130,4 +130,4 @@ SocialSyncer is a Discord bot that delivers real-time notifications from Twitch,
 
 ## Website
 
-[explorericardo.com](https://explorericardo.com?dev=true)
+[explorericardo.com](https://explorericardo.com)
