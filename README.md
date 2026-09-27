@@ -100,7 +100,7 @@ WHMCS · Paymenter · Pterodactyl · Pelican
 
 Response times can be a little slower when I'm away, but I always reply, usually within 48 hours.
 
-- [Email](mailto:ricardo@explorericardo.com)
+- [Email](mailto:ricardo@exploremyspace.eu)
 
 You can also visit my [website](https://explorericardo.com) for more information.
 
@@ -121,12 +121,6 @@ A complete, production-ready Stripe toolkit for Node.js and TypeScript. StripeKi
 A complete, production-ready Stripe toolkit for PHP. StripeKit wraps the official `stripe/stripe-php` SDK with a simple, opinionated layer for customers, payment methods, payments, checkout, subscriptions, invoices, coupons, webhooks, and more.
 
 - [Packagist package](https://packagist.org/packages/ricardoneudorfer/stripekit)
-
-### 03 — SocialSyncer
-
-SocialSyncer is a Discord bot that delivers real-time notifications from Twitch, YouTube, Kick, Bluesky, and Spotify straight into your Discord server. It includes beautiful embeds, role pings, and full customization through the dashboard.
-
-- [Visit SocialSyncer](https://socialsyncer.xyz)
 
 ## Website
 
