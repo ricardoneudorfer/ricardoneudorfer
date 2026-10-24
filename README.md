@@ -10,7 +10,7 @@ I'm a software developer with more than 3 years of hands-on experience and a gen
 
 Most of what I build ends up open source and is published publicly on GitHub, so other developers can use it, learn from it, or contribute to it.
 
-[View Projects](https://explorericardo.com/projects)
+[View Projects](https://ricardoneudorfer.com/projects)
 
 ### Full-Stack Developer
 
@@ -102,7 +102,7 @@ Response times can be a little slower when I'm away, but I always reply, usually
 
 - [Email](mailto:ricardo@exploremyspace.eu)
 
-You can also visit my [website](https://explorericardo.com) for more information.
+You can also visit my [website](https://ricardoneudorfer.com) for more information.
 
 ## Open Source
 
@@ -124,4 +124,4 @@ A complete, production-ready Stripe toolkit for PHP. StripeKit wraps the officia
 
 ## Website
 
-[explorericardo.com](https://explorericardo.com)
+[ricardoneudorfer.com](https://ricardoneudorfer.com)
